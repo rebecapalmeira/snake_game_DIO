@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex-direction: column;
+    color: rgb(3, 44, 3);
+}
+
+#gameName {
+    text-transform: uppercase;
+}
+
+#gameInstructions {
+    text-transform: initial;
+    color: rgb(22, 92, 69);
+    text-align: center;
+    text
+}
